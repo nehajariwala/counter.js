@@ -1,0 +1,36 @@
+body{
+    background-color:black;
+}
+.round{
+    height: 250px;
+    width: 250px;
+    border: 2px solid #F6F193;
+    border-radius: 100%;
+    margin-left: 40%;
+    margin-top: 300px;
+    position: absolute;
+    color: #F6F193;
+    box-shadow: 0 0 15px;
+
+}
+
+h1{
+    font-size: 110px;
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+   
+}
+
+button{
+   border-radius: 20px;
+    height:40px;
+    width: 100px;
+    position: relative;
+    margin-left: 44%;
+    margin-top: 600px;
+    font-size: 18px;
+    color: #F6F193;
+    background-color: black;
+    box-shadow: 0 0 15px;
+}
